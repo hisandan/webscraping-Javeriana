@@ -1,0 +1,878 @@
+{'ExpirePage': 'https://csg.javeriana.edu.co/psc/CS92GST/', 'PS_DEVICEFEATURES': 'new:1', 'PS_LASTSITE': 'https://csg.javeriana.edu.co/psc/CS92GST/', 'PS_LOGINLIST': 'https://csg.javeriana.edu.co/CS92GST', 'PS_TOKEN': '!xHPoLJ3TZBbusUfhEAUGuz+AhI8oieYpGD81GxpRorKTXxXVII0yJ92TorVxAvyrdxPyazMLDoYmMtjRuuxPYzJHKJX+kQ5sexuUKi/w4gLolyzSdehZlGrQXMZyLYF9zkChmSRDN7s3o2E1/gcDREuiL16f8ym775svkesS1mCG+gm/A72entJwxh3xve0kaEkveaNW/WfS4jy/vIo97loLkUxSP/WGBTA9LRALuw7ihsr0ZhMVC9TuzQUvB6C8tAWz/dfbw8XRlc+GE8LVXhGKl2NlZWqvKKjsa/dqAwawn2DYr5YgyxH+6wtSuh1htFS/ox2selSK7Vl3S6k=', 'PS_TOKENEXPIRE': '5_Oct_2022_05:55:53_GMT', 'PS_TokenSite': 'https://csg.javeriana.edu.co/psc/CS92GST/?javeriana-edu-co-CS-PORTAL-PSJSESSIONID', 'SignOnDefault': 'GUEST', 'TS01351dd6': '011137a605c0f513cf283c0835f8de65db9c3674216f994d843329332f06be42add06ff036055cab79afdef2a2c07476e083d7f504', 'javeriana-edu-co-CS-PORTAL-PSJSESSIONID': 'V9ymtvuGPgGA-2Fb5lpLkI-vJvoAox0N!100792201', 'TS0160f120': '011137a605c0f513cf283c0835f8de65db9c3674216f994d843329332f06be42add06ff036055cab79afdef2a2c07476e083d7f504'} 
+
+
+ExpirePage    -- https://csg.javeriana.edu.co/psc/CS92GST/
+PS_DEVICEFEATURES    -- new:1
+PS_LASTSITE    -- https://csg.javeriana.edu.co/psc/CS92GST/
+PS_LOGINLIST    -- https://csg.javeriana.edu.co/CS92GST
+PS_TOKEN    -- !xHPoLJ3TZBbusUfhEAUGuz+AhI8oieYpGD81GxpRorKTXxXVII0yJ92TorVxAvyrdxPyazMLDoYmMtjRuuxPYzJHKJX+kQ5sexuUKi/w4gLolyzSdehZlGrQXMZyLYF9zkChmSRDN7s3o2E1/gcDREuiL16f8ym775svkesS1mCG+gm/A72entJwxh3xve0kaEkveaNW/WfS4jy/vIo97loLkUxSP/WGBTA9LRALuw7ihsr0ZhMVC9TuzQUvB6C8tAWz/dfbw8XRlc+GE8LVXhGKl2NlZWqvKKjsa/dqAwawn2DYr5YgyxH+6wtSuh1htFS/ox2selSK7Vl3S6k=
+PS_TOKENEXPIRE    -- 5_Oct_2022_05:55:53_GMT
+PS_TokenSite    -- https://csg.javeriana.edu.co/psc/CS92GST/?javeriana-edu-co-CS-PORTAL-PSJSESSIONID
+SignOnDefault    -- GUEST
+TS01351dd6    -- 011137a605c0f513cf283c0835f8de65db9c3674216f994d843329332f06be42add06ff036055cab79afdef2a2c07476e083d7f504
+javeriana-edu-co-CS-PORTAL-PSJSESSIONID    -- V9ymtvuGPgGA-2Fb5lpLkI-vJvoAox0N!100792201
+TS0160f120    -- 011137a605c0f513cf283c0835f8de65db9c3674216f994d843329332f06be42add06ff036055cab79afdef2a2c07476e083d7f504
+{'PS_LASTSITE': 'https://csg.javeriana.edu.co/psc/CS92GST/', 'PS_TOKENEXPIRE': '5_Oct_2022_05:55:54_GMT', 'TS01351dd6': '011137a605c0f513cf283c0835f8de65db9c3674216f994d843329332f06be42add06ff036055cab79afdef2a2c07476e083d7f504', 'BIGipServerpool_cs_guest': '33626634.48411.0000', 'TS0160f120': '011137a605c0f513cf283c0835f8de65db9c3674216f994d843329332f06be42add06ff036055cab79afdef2a2c07476e083d7f504'} 
+
+
+
+
+ {'PS_LASTSITE': 'https://csg.javeriana.edu.co/psc/CS92GST/', 'PS_TOKENEXPIRE': '5_Oct_2022_05:55:54_GMT', 'TS01351dd6': '011137a605c0f513cf283c0835f8de65db9c3674216f994d843329332f06be42add06ff036055cab79afdef2a2c07476e083d7f504', 'BIGipServerpool_cs_guest': '33626634.48411.0000', 'TS0160f120': '011137a605c0f513cf283c0835f8de65db9c3674216f994d843329332f06be42add06ff036055cab79afdef2a2c07476e083d7f504'}
+going to set...
+PS_TOKENEXPIRE ----- 5_Oct_2022_05:55:54_GMT
+TS01351dd6 ----- 011137a605c0f513cf283c0835f8de65db9c3674216f994d843329332f06be42add06ff036055cab79afdef2a2c07476e083d7f504
+TS0160f120 ----- 011137a605c0f513cf283c0835f8de65db9c3674216f994d843329332f06be42add06ff036055cab79afdef2a2c07476e083d7f504
+<?xml version='1.0' encoding='utf-8' ?>
+<PAGE id='SSR_CLSRCH_RSLT'><GENSCRIPT id='script'><![CDATA[var oWin=window;
+ var oDoc = window.document;
+oWin.strCurrUrl='https://csg.javeriana.edu.co/psc/CS92GST/EMPLOYEE/SA/c/ESTABLISH_COURSES.CLASS_SEARCH.GBL?&PAGE=SSR_CLSRCH_RSLT';
+oWin.strReqURL='';
+]]></GENSCRIPT><GENSCRIPT id='script'><![CDATA[oWin.gridRowSelRgbColor_win0 ='rgb(238,238,238)';
+]]></GENSCRIPT><GENSCRIPT id='onloadScript'><![CDATA[var pt_pageinfo = document.getElementById('pt_pageinfo_win0');
+if (pt_pageinfo) {
+pt_pageinfo.setAttribute('Page', 'SSR_CLSRCH_RSLT');
+pt_pageinfo.setAttribute('Component', 'CLASS_SEARCH');
+pt_pageinfo.setAttribute('Menu', 'ESTABLISH_COURSES');
+pt_pageinfo.setAttribute('Mode', 'CLASSIC');
+}
+var liveRegion = document.getElementById('pt_liveregion');
+if (liveRegion) liveRegion.innerHTML = '';
+
+ g_bAccessibilityMode=false;
+var actn='';
+var oWin=window;
+var oDoc=document;
+actn=oDoc.win0.ICAction.value;
+oDoc.win0.ICAction.value='None';
+oDoc.win0.ICResubmit.value='0';
+oWin.nResubmit='0';
+oDoc.win0.ICStateNum.value=5;initVars_win0();
+if (typeof resetVars_win0 == "function")resetVars_win0();
+oDoc.win0.ICFocus.value='';
+setupTimeout2();
+if (oDoc.win0.ICTypeAheadID) oDoc.win0.ICTypeAheadID.value='';
+if (!isCrossDomainTop()) top.document.title=document.title;
+ptEvent.add(window,'scroll',positionWAIT_win0);
+ptCommonObj2.generateABNSearchResults(document.win0);
+getGblSrchPageNum(actn);
+if (gSrchRsltPageNum <= 5) getAllRelatedActions();
+
+if (typeof(myAppsWindowOpenJS) != 'undefined' && myAppsWindowOpenJS != null && myAppsWindowOpenJS != '')
+ {
+try {eval(myAppsWindowOpenJS);} catch(e) {}
+  myAppsWindowOpenJS=null;
+}
+if (typeof(HelppopupObj_win0) != 'undefined' && HelppopupObj_win0 != null)
+ HelppopupObj_win0.StopPopup('win0');
+if (typeof(ptLongEditCounter) != 'undefined' && ptLongEditCounter != null)
+   ptLongEditCounter.onLoadLongEditCounter();
+ResetGlyph_win0();
+self.scroll(0,0);
+if (typeof ptGridObj_win0 != 'undefined' && ptGridObj_win0)
+ ptGridObj_win0.clearGridArr();
+objToBeFocus = null;
+if (bPTDrag) CancelDragAccessible();
+ bPTDrag = false;
+if (typeof oWin == 'undefined') setEventHandlers_win0('ICFirstAnchor_win0', 'ICLastAnchor_win0', false);
+ else
+ oWin.setEventHandlers_win0('ICFirstAnchor_win0', 'ICLastAnchor_win0', false);
+setFocus_win0('DERIVED_SSTSNAV_SSTS_MAIN_GOTO$27$',-1);
+ptLoadingStatus_empty(0);
+setupTimeout2();
+processing_win0(0,3000);]]></GENSCRIPT>
+<FIELD id='win0divPSHIDDENFIELDS'><![CDATA[<input type='hidden' name='ICType' id='ICType' value='Panel' />
+<input type='hidden' name='ICElementNum' id='ICElementNum' value='0' />
+<input type='hidden' name='ICStateNum' id='ICStateNum' value='5' />
+<input type='hidden' name='ICAction' id='ICAction' value='None' />
+<input type='hidden' name='ICModelCancel' id='ICModelCancel' value='0' />
+<input type='hidden' name='ICXPos' id='ICXPos' value='0' />
+<input type='hidden' name='ICYPos' id='ICYPos' value='0' />
+<input type='hidden' name='ResponsetoDiffFrame' id='ResponsetoDiffFrame' value='-1' />
+<input type='hidden' name='TargetFrameName' id='TargetFrameName' value='None' />
+<input type='hidden' name='FacetPath' id='FacetPath' value='None' />
+<input type='hidden' name='ICFocus' id='ICFocus' value='' />
+<input type='hidden' name='ICSaveWarningFilter' id='ICSaveWarningFilter' value='0' />
+<input type='hidden' name='ICChanged' id='ICChanged' value='-1' />
+<input type='hidden' name='ICSkipPending' id='ICSkipPending' value='0' />
+<input type='hidden' name='ICAutoSave' id='ICAutoSave' value='0' />
+<input type='hidden' name='ICResubmit' id='ICResubmit' value='0' />
+<input type='hidden' name='ICSID' id='ICSID' value='2U4/8m7CiNKLM4yNKG3bqR4/25umtY75uqL+3FPvO9w=' />
+<input type='hidden' name='ICActionPrompt' id='ICActionPrompt' value='false' />
+<input type='hidden' name='ICTypeAheadID' id='ICTypeAheadID' value='' />
+<input type='hidden' name='ICBcDomData' id='ICBcDomData' value='' />
+<input type='hidden' name='ICPanelName' id='ICPanelName' value='' />
+<input type='hidden' name='ICFind' id='ICFind' value='' />
+<input type='hidden' name='ICAddCount' id='ICAddCount' value='' />
+<input type='hidden' name='ICAppClsData' id='ICAppClsData' value='' />
+]]></FIELD>
+<FIELD id='win0divPAGEBAR'><![CDATA[]]></FIELD>
+<FIELD id='win0divPSPANELTABS'><![CDATA[]]></FIELD>
+<FIELD id='win0divPAGECONTAINER'><![CDATA[<table class='PSPAGECONTAINER' role='main' aria-labelledby='app_label'><tr><td>
+<DIV class='ps_pspagecontainer' id='win0divPSPAGECONTAINER'><table role='presentation'  border='0' id='ACE_width' cellpadding='0' cellspacing='0' class='PSPAGECONTAINER' cols='13' width='941'>
+<tr>
+<td width='0' height='3'></td>
+<td width='4'></td>
+<td width='8'></td>
+<td width='5'></td>
+<td width='219'></td>
+<td width='168'></td>
+<td width='156'></td>
+<td width='12'></td>
+<td width='8'></td>
+<td width='4'></td>
+<td width='120'></td>
+<td width='104'></td>
+<td width='133'></td>
+</tr>
+<tr>
+<td height='48'></td>
+<td colspan='6'  valign='top' align='left'>
+<DIV    id='win0divDERIVED_CLSRCH_GROUPBOX2'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  width='559'>
+<tr><td class='PAGROUPBOXLABELINVISIBLE'  align='left'>Cuadro Grupo</td></tr>
+<tr><td width='557'>
+<table role='presentation'  border='0' id='ACE_DERIVED_CLSRCH_GROUPBOX2' cellpadding='0' cellspacing='0' cols='4' width='557' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='7' height='0'></td>
+<td width='6'></td>
+<td width='355'></td>
+<td width='189'></td>
+</tr>
+<tr>
+<td height='18' colspan='2'></td>
+<td colspan='2'  valign='top' align='left'>
+<DIV    id='win0divDERIVED_CLSRCH_SS_TRANSACT_TITLE'><span   role='heading' aria-level='1'  class='PATRANSACTIONTITLE' id='DERIVED_CLSRCH_SS_TRANSACT_TITLE' >Búsqueda de Clases</span>
+</DIV></td>
+</tr>
+<tr>
+<td height='5'></td>
+<td colspan='2' rowspan='2'  valign='top' align='left'>
+<DIV  id='win0divDERIVED_CLSRCH_SSR_CLASS_LBLlbl'><span  class='PAPAGETITLE' >Resultados Búsqueda</span></DIV></td>
+</tr>
+<tr>
+<td height='13'></td>
+<td  valign='top' align='left'>
+<DIV    id='win0divDERIVED_CLSRCH_SSR_CLASS_LBL'><span    class='PSEDITBOX_DISPONLY' id='DERIVED_CLSRCH_SSR_CLASS_LBL' >&nbsp;</span>
+</DIV></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+<tr>
+<td height='9' colspan='13'></td>
+</tr>
+<tr>
+<td height='31' colspan='4'></td>
+<td colspan='9'  valign='top' align='left'>
+<DIV    id='win0divDERIVED_CLSRCH_SSS_PAGE_KEYDESCR'><span    class='PSEDITBOX_DISPONLY' id='DERIVED_CLSRCH_SSS_PAGE_KEYDESCR' >Universidad Javeriana | Tercer Período de 2022</span>
+</DIV></td>
+</tr>
+<tr>
+<td height='44' colspan='3'></td>
+<td colspan='6'  valign='top' align='left'>
+<DIV    id='win0div$ICField94'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  width='567'>
+<tr><td width='565'>
+<table role='presentation'  border='0' id='ACE_$ICField94' cellpadding='0' cellspacing='0' cols='3' width='565' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='3' height='0'></td>
+<td width='552'></td>
+<td width='10'></td>
+</tr>
+<tr>
+<td height='38'></td>
+<td  valign='top' align='left'>
+<DIV    id='win0divDERIVED_CLSRCH_SSR_CLSRCH_CRIT'><div style="width:552px; " >
+<!-- Begin HTML Area Name Undisclosed -->
+<table class="PSEDITBOX_DISPONLY"><tr><td>Las siguientes clases cumplen el criterio de búsqueda Grd Curso: <strong>Pregrado</strong>,&nbsp;&nbsp;Ver sólo Clases Inscr Abierta: <strong>No</strong>,&nbsp;&nbsp;Palabra Clave Nombre Curso:  '<strong>algebra</strong>'</td></tr></table>
+<!-- End HTML Area -->
+</div>
+</DIV></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+<tr>
+<td height='4' colspan='13'></td>
+</tr>
+<tr>
+<td height='27' colspan='2'></td>
+<td colspan='10'  valign='top' align='left'>
+<DIV    id='win0divDERIVED_REGFRM1_DESCR1'><table cellpadding='2' cellspacing='0' cols='1'  class='PSGROUPBOXWBO'  width='803'>
+<tr><td class='PAGROUPBOXLABELINVISIBLE'  align='left'>Descr</td></tr>
+<tr><td width='799'>
+<table role='presentation'  border='0' id='ACE_DERIVED_REGFRM1_DESCR1' cellpadding='0' cellspacing='0' cols='3' width='799' class='PSGROUPBOX' style='border-style:none' >
+<tr>
+<td width='402' height='0'></td>
+<td width='380'></td>
+<td width='17'></td>
+</tr>
+<tr>
+<td height='17'></td>
+<td  valign='top' align='left'>
+<DIV    id='win0divDERIVED_REGFRM1_SSR_WAIT_LIST_ON'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  width='379'>
+<tr><td width='377'>
+<table role='presentation'  border='0' id='ACE_DERIVED_REGFRM1_SSR_WAIT_LIST_ON' cellpadding='0' cellspacing='0' cols='10' width='377' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='3' height='0'></td>
+<td width='16'></td>
+<td width='44'></td>
+<td width='44'></td>
+<td width='16'></td>
+<td width='52'></td>
+<td width='56'></td>
+<td width='16'></td>
+<td width='116'></td>
+<td width='14'></td>
+</tr>
+<tr>
+<td height='15'></td>
+<td  valign='top' align='left'>
+<DIV    id='win0div$ICField2'><img src=/cs/CS92GST/cache/PS_CS_STATUS_OPEN_ICN_ESP_1.gif width='16' height='16' alt='Abierta' title='Abierta' class='PSSTATICIMAGE' />
+</DIV></td>
+<td  valign='top' align='left'>
+<DIV    id='win0div$ICField3'><span    class='PSTEXT' >Abierta</span>
+</DIV></td>
+<td></td>
+<td  valign='top' align='left'>
+<DIV    id='win0div$ICField4'><img src=/cs/CS92GST/cache/PS_CS_STATUS_CLOSED_ICN_ESP_1.gif width='16' height='16' alt='Cerrada' title='Cerrada' class='PSSTATICIMAGE' />
+</DIV></td>
+<td  valign='top' align='left'>
+<DIV    id='win0div$ICField5'><span    class='PSTEXT' >Cerrada</span>
+</DIV></td>
+<td></td>
+<td  valign='top' align='left'>
+<DIV    id='win0div$ICField6'><img src=/cs/CS92GST/cache/PS_CS_STATUS_WAITLIST_ICN_ESP_1.gif width='16' height='16' alt='Lista Espera' title='Lista Espera' class='PSSTATICIMAGE' />
+</DIV></td>
+<td  valign='top' align='left'>
+<DIV    id='win0div$ICField7'><span    class='PSTEXT' >Lista Espera</span>
+</DIV></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+<tr>
+<td height='0' colspan='3'></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+<tr>
+<td height='4' colspan='13'></td>
+</tr>
+<tr>
+<td height='42'></td>
+<td colspan='9'  valign='top' align='left'>
+<DIV    id='win0divDERIVED_CLSRCH_GROUP5'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  width='583'>
+<tr><td width='581'>
+<table role='presentation'  border='0' id='ACE_DERIVED_CLSRCH_GROUP5' cellpadding='0' cellspacing='0' cols='4' width='581' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='235' height='0'></td>
+<td width='168'></td>
+<td width='168'></td>
+<td width='10'></td>
+</tr>
+<tr>
+<td height='28'></td>
+<td  valign='top' align='left'>
+<DIV    id='win0div$ICField$3$'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  width='167'>
+<tr><td width='165'>
+<table role='presentation'  border='0' id='ACE_$ICField$3$' cellpadding='0' cellspacing='0' cols='2' width='165' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='3' height='0'></td>
+<td width='162'></td>
+</tr>
+<tr>
+<td height='23'></td>
+<td nowrap='nowrap'  valign='top' align='left'>
+<DIV    id='win0divCLASS_SRCH_WRK2_SSR_PB_NEW_SEARCH'><a role='presentation' class='PSPUSHBUTTON Left' ><span style='background-Color: transparent;'><input type='button' name='CLASS_SRCH_WRK2_SSR_PB_NEW_SEARCH' id='CLASS_SRCH_WRK2_SSR_PB_NEW_SEARCH' tabindex='390' value='Nva Búsqueda'  class='PSPUSHBUTTON' style='width:152px; ' onclick="submitAction_win0(document.win0,this.id,event);" title='Nueva Búsqueda'  /></span></a></DIV></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+<td  valign='top' align='left'>
+<DIV    id='win0div$ICField$5$'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  width='167'>
+<tr><td width='165'>
+<table role='presentation'  border='0' id='ACE_$ICField$5$' cellpadding='0' cellspacing='0' cols='2' width='165' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='7' height='0'></td>
+<td width='158'></td>
+</tr>
+<tr>
+<td height='23'></td>
+<td nowrap='nowrap'  valign='top' align='left'>
+<DIV    id='win0divCLASS_SRCH_WRK2_SSR_PB_MODIFY'><a role='presentation' class='PSPUSHBUTTON Left' ><span style='background-Color: transparent;'><input type='button' name='CLASS_SRCH_WRK2_SSR_PB_MODIFY' id='CLASS_SRCH_WRK2_SSR_PB_MODIFY' tabindex='391' value='Modificar Búsqueda'  class='PSPUSHBUTTON' style='width:152px; ' onclick="submitAction_win0(document.win0,this.id,event);" /></span></a></DIV></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+<tr>
+<td height='9' colspan='4'></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+<tr>
+<td height='320'></td>
+<td colspan='10'  valign='top' align='left'>
+<DIV    id='win0divDERIVED_CLSRCH_GROUP6'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  width='703'>
+<tr><td width='701'>
+<table role='presentation'  border='0' id='ACE_DERIVED_CLSRCH_GROUP6' cellpadding='0' cellspacing='0' cols='2' width='701' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='3' height='0'></td>
+<td width='698'></td>
+</tr>
+<tr>
+<td height='308'></td>
+<td  valign='top' align='left'>
+<DIV    id='win0divSSR_CLSRSLT_WRK_GROUPBOX1'><table cellpadding='2' cellspacing='0' cols='1'  class='PSGROUPBOXWBO'  width='735'>
+<tr><td class='PSGROUPBOXLABEL'  align='left'>4 secciones de clase encontradas</td></tr>
+<tr><td width='731'>
+<table role='presentation'  border='0' id='ACE_SSR_CLSRSLT_WRK_GROUPBOX1' cellpadding='0' cellspacing='0' cols='3' width='731' class='PSGROUPBOX' style='border-style:none' >
+<tr>
+<td width='0' height='3'></td>
+<td width='724'></td>
+<td width='9'></td>
+</tr>
+<tr>
+<td height='284'></td>
+<td  valign='top' align='left'>
+<DIV    id='win0div$ICField$4$$0'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  id='$ICField$4$$scroll$0' onclick="getScrollTableId('$ICField$4$$scroll$0')" width='723'>
+<tr><td width='721'>
+<table role='presentation'  border='0' id='ACE_$ICField$4$$0' cellpadding='0' cellspacing='0' cols='2' width='721' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='0' height='0'></td>
+<td width='722'></td>
+</tr>
+<tr>
+<td height='71'></td>
+<td  valign='top' align='left'>
+<DIV    id='win0divSSR_CLSRSLT_WRK_GROUPBOX2$0'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  width='731'>
+<tr><td class='PAGROUPBOXLABELLEVEL1'  align='left'><DIV    id='win0divSSR_CLSRSLT_WRK_GROUPBOX2GP$0'><a class='PSHYPERLINK PTCOLLAPSE_ARROW' title='Contraer Sección MATEMÁT 1700 - Algebra Abstracta - Algebra Abstracta' name='SSR_CLSRSLT_WRK_GROUPBOX2$0' id='SSR_CLSRSLT_WRK_GROUPBOX2$0' tabindex='406' href="javascript:submitAction_win0(document.win0,'SSR_CLSRSLT_WRK_GROUPBOX2$0');" aria-expanded='true' role='button'><img src='/cs/CS92GST/cache/PT_TRANS_PIX_ESP_1.png' alt='Contraer Sección MATEMÁT 1700 - Algebra Abstracta - Algebra Abstracta' class='PTCOLLAPSE' title='Contraer Sección' border='0' /></a>&nbsp;MATEMÁT 1700 - Algebra Abstracta - Algebra Abstracta&nbsp;</DIV></td></tr>
+<tr><td width='729'>
+<table role='presentation'  border='0' id='ACE_SSR_CLSRSLT_WRK_GROUPBOX2$0' cellpadding='0' cellspacing='0' cols='3' width='729' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='0' height='0'></td>
+<td width='728'></td>
+<td width='2'></td>
+</tr>
+<tr>
+<td height='55'></td>
+<td  valign='top' align='left'>
+<DIV    id='win0div$ICField48$0'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  id='$ICField48$scroll$0' onclick="getScrollTableId('$ICField48$scroll$0')" width='727'>
+<tr><td width='725'>
+<table role='presentation'  border='0' id='ACE_$ICField48$0' cellpadding='0' cellspacing='0' cols='3' width='725' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='0' height='3'></td>
+<td width='720'></td>
+<td width='6'></td>
+</tr>
+<tr>
+<td height='50'></td>
+<td  valign='top' align='left'>
+<DIV    id='win0divSSR_CLSRSLT_WRK_GROUPBOX3$0'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  width='719'>
+<tr><td width='717'>
+<table role='presentation'  border='0' id='ACE_SSR_CLSRSLT_WRK_GROUPBOX3$0' cellpadding='0' cellspacing='0' cols='4' width='717' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='11' height='0'></td>
+<td width='32'></td>
+<td width='668'></td>
+<td width='6'></td>
+</tr>
+<tr>
+<td height='3' colspan='2'></td>
+<td rowspan='2'  valign='top' align='left'>
+<DIV    id='win0divSSR_CLSRCH_MTG1$0'>
+<table cellspacing='0' class='PSLEVEL1GRIDNBONBO'  id='SSR_CLSRCH_MTG1$scroll$0' dir='ltr' cols='7' width='668' cellpadding='2'>
+<tr>
+<th scope='col' abbr='Clase' width='30' align='left' class='PSLEVEL1GRIDCOLUMNHDR PSGRIDFIRSTCOLUMN' ><a name='SSR_CLSRCH_MTG1$srt5$0' id='SSR_CLSRCH_MTG1$srt5$0' tabindex='441' class='PSLEVEL1GRIDCOLUMNHDR' href="javascript:submitAction_win0(document.win0,'SSR_CLSRCH_MTG1$srt5$0');" title="Pulse para orden ascendente.">Clase</a></th>
+<th scope='col' abbr='Sección' width='80' align='left' class='PSLEVEL1GRIDCOLUMNHDR' ><a name='SSR_CLSRCH_MTG1$srt6$0' id='SSR_CLSRCH_MTG1$srt6$0' tabindex='442' class='PSLEVEL1GRIDCOLUMNHDR' href="javascript:submitAction_win0(document.win0,'SSR_CLSRCH_MTG1$srt6$0');" title="Pulse para orden ascendente.">Sección</a></th>
+<th scope='col' abbr='Días y Horas' width='98' align='left' class='PSLEVEL1GRIDCOLUMNHDR' ><a name='SSR_CLSRCH_MTG1$srt7$0' id='SSR_CLSRCH_MTG1$srt7$0' tabindex='443' class='PSLEVEL1GRIDCOLUMNHDR' href="javascript:submitAction_win0(document.win0,'SSR_CLSRCH_MTG1$srt7$0');" title="Pulse para orden ascendente.">Días y Horas</a></th>
+<th scope='col' abbr='Aula' width='91' align='left' class='PSLEVEL1GRIDCOLUMNHDR' ><a name='SSR_CLSRCH_MTG1$srt8$0' id='SSR_CLSRCH_MTG1$srt8$0' tabindex='444' class='PSLEVEL1GRIDCOLUMNHDR' href="javascript:submitAction_win0(document.win0,'SSR_CLSRCH_MTG1$srt8$0');" title="Pulse para orden ascendente.">Aula</a></th>
+<th scope='col' abbr='Instructor' width='98' align='left' class='PSLEVEL1GRIDCOLUMNHDR' ><a name='SSR_CLSRCH_MTG1$srt9$0' id='SSR_CLSRCH_MTG1$srt9$0' tabindex='445' class='PSLEVEL1GRIDCOLUMNHDR' href="javascript:submitAction_win0(document.win0,'SSR_CLSRCH_MTG1$srt9$0');" title="Pulse para orden ascendente.">Instructor</a></th>
+<th scope='col' abbr='Fechas Clase' width='94' align='left' class='PSLEVEL1GRIDCOLUMNHDR' ><a name='SSR_CLSRCH_MTG1$srt10$0' id='SSR_CLSRCH_MTG1$srt10$0' tabindex='446' class='PSLEVEL1GRIDCOLUMNHDR' href="javascript:submitAction_win0(document.win0,'SSR_CLSRCH_MTG1$srt10$0');" title="Pulse para orden ascendente.">Fechas Clase</a></th>
+<th scope='col' abbr='Estado' width='45' align='left' class='PSLEVEL1GRIDCOLUMNHDR' ><a name='SSR_CLSRCH_MTG1$srt11$0' id='SSR_CLSRCH_MTG1$srt11$0' tabindex='447' class='PSLEVEL1GRIDCOLUMNHDR' href="javascript:submitAction_win0(document.win0,'SSR_CLSRCH_MTG1$srt11$0');" title="Pulse para orden ascendente.">Estado</a></th>
+</tr>
+<tr id='trSSR_CLSRCH_MTG1$0_row1' valign='center' onClick="HighLightTR('rgb(238,238,238)','','trSSR_CLSRCH_MTG1$0_row1');" onMouseOver="hoverLightTR('rgb(253,255,200)','',0,'trSSR_CLSRCH_MTG1$0_row1');" onmouseout="hoverLightTR('rgb(253,255,200)','',1,'trSSR_CLSRCH_MTG1$0_row1');">
+<td align='left'  height='22' class='PSLEVEL3GRIDODDROW PSGRIDFIRSTCOLUMN' >
+<DIV    id='win0divMTG_CLASS_NBR$0'><span id='MTG_CLASS_NBR$span$0'  class='PSHYPERLINK'  title='Nº Clase' ><a name='MTG_CLASS_NBR$0' id='MTG_CLASS_NBR$0'  ptlinktgt='pt_peoplecode' tabindex='449' onclick='javascript:cancelBubble(event);' href="javascript:submitAction_win0(document.win0,'MTG_CLASS_NBR$0');"  class='PSHYPERLINK' >1136</a></span></DIV></td>
+<td class='PSLEVEL3GRIDODDROW'  align='left'  class='PSLEVEL3GRIDODDROW' >
+<DIV    id='win0divMTG_CLASSNAME$0'><span id='MTG_CLASSNAME$span$0'  class='PSHYPERLINK'  title='Ver Detalles' ><a name='MTG_CLASSNAME$0' id='MTG_CLASSNAME$0'  ptlinktgt='pt_peoplecode' tabindex='450' onclick='javascript:cancelBubble(event);' href="javascript:submitAction_win0(document.win0,'MTG_CLASSNAME$0');"  class='PSHYPERLINK' >1-TEO<br />
+Ordinaria</a></span></DIV></td>
+<td class='PSLEVEL3GRIDODDROW'  align='left'  class='PSLEVEL3GRIDODDROW' >
+<DIV    id='win0divMTG_DAYTIME$0'><span    class='PSLONGEDITBOX' id='MTG_DAYTIME$0' >Miérc 2:00PM - 4:00PM<br />
+V 2:00PM - 4:00PM</span>
+</DIV></td>
+<td class='PSLEVEL3GRIDODDROW'  align='left'  class='PSLEVEL3GRIDODDROW' >
+<DIV    id='win0divMTG_ROOM$0'><span    class='PSLONGEDITBOX' id='MTG_ROOM$0' >SC054-P001<br />
+SC054-P001</span>
+</DIV></td>
+<td class='PSLEVEL3GRIDODDROW'  align='left'  class='PSLEVEL3GRIDODDROW' >
+<DIV    id='win0divMTG_INSTR$0'><span    class='PSLONGEDITBOX' id='MTG_INSTR$0' >Claudia Milena Gallego Joya<br />
+Claudia Milena Gallego Joya</span>
+</DIV></td>
+<td class='PSLEVEL3GRIDODDROW'  align='left'  class='PSLEVEL3GRIDODDROW' >
+<DIV    id='win0divMTG_TOPIC$0'><span    class='PSLONGEDITBOX' id='MTG_TOPIC$0' >18/07/2022 - 26/11/2022<br />
+18/07/2022 - 26/11/2022</span>
+</DIV></td>
+<td class='PSLEVEL3GRIDODDROW'  align='left'  class='PSLEVEL3GRIDODDROW' >
+<DIV    id='win0divDERIVED_CLSRCH_SSR_STATUS_LONG$0'><div style="min-width:45px; " >
+<!-- Begin HTML Area Name Undisclosed -->
+<img src="/cs/CS92GST/cache/PS_CS_STATUS_OPEN_ICN_ESP_1.gif" width="16" height="16" alt="Abierta" STYLE="vertical-align:middle;text-align:center;margin-left:12px">
+<!-- End HTML Area -->
+</div>
+</DIV></td>
+</tr>
+</table>
+</DIV>
+</td>
+</tr>
+<tr>
+<td height='39'></td>
+<td rowspan='2' nowrap='nowrap'  valign='top' align='left'>
+<DIV    id='win0divUJ_CLSRCH_WRK_CLASS_DATA_DTL_PB$0'><a name='UJ_CLSRCH_WRK_CLASS_DATA_DTL_PB$0' id='UJ_CLSRCH_WRK_CLASS_DATA_DTL_PB$0'   role='button' tabindex='421' onclick='javascript:cancelBubble(event);' href="javascript:submitAction_win0(document.win0,'UJ_CLSRCH_WRK_CLASS_DATA_DTL_PB$0');"><img src='/cs/CS92GST/cache/AMM_CAMA_ESP_1.gif' id='UJ_CLSRCH_WRK_CLASS_DATA_DTL_PB$IMG$0'  alt='Componentes Adicionales' title='Componentes Adicionales' border='0' /></a></DIV></td>
+</tr>
+<tr>
+<td height='3'></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+<tr>
+<td height='3' colspan='3'></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+<tr>
+<td height='71'></td>
+<td  valign='top' align='left'>
+<DIV    id='win0divSSR_CLSRSLT_WRK_GROUPBOX2$1'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  width='731'>
+<tr><td class='PAGROUPBOXLABELLEVEL1'  align='left'><DIV    id='win0divSSR_CLSRSLT_WRK_GROUPBOX2GP$1'><a class='PSHYPERLINK PTCOLLAPSE_ARROW' title='Contraer Sección MATEMÁT 1700 - Temas de Álgebra - Temas de Álgebra' name='SSR_CLSRSLT_WRK_GROUPBOX2$1' id='SSR_CLSRSLT_WRK_GROUPBOX2$1' tabindex='616' href="javascript:submitAction_win0(document.win0,'SSR_CLSRSLT_WRK_GROUPBOX2$1');" aria-expanded='true' role='button'><img src='/cs/CS92GST/cache/PT_TRANS_PIX_ESP_1.png' alt='Contraer Sección MATEMÁT 1700 - Temas de Álgebra - Temas de Álgebra' class='PTCOLLAPSE' title='Contraer Sección' border='0' /></a>&nbsp;MATEMÁT 1700 - Temas de Álgebra - Temas de Álgebra&nbsp;</DIV></td></tr>
+<tr><td width='729'>
+<table role='presentation'  border='0' id='ACE_SSR_CLSRSLT_WRK_GROUPBOX2$1' cellpadding='0' cellspacing='0' cols='3' width='729' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='0' height='0'></td>
+<td width='728'></td>
+<td width='2'></td>
+</tr>
+<tr>
+<td height='55'></td>
+<td  valign='top' align='left'>
+<DIV    id='win0div$ICField48$1'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  id='$ICField48$scroll$1' onclick="getScrollTableId('$ICField48$scroll$1')" width='727'>
+<tr><td width='725'>
+<table role='presentation'  border='0' id='ACE_$ICField48$1' cellpadding='0' cellspacing='0' cols='3' width='725' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='0' height='3'></td>
+<td width='720'></td>
+<td width='6'></td>
+</tr>
+<tr>
+<td height='50'></td>
+<td  valign='top' align='left'>
+<DIV    id='win0divSSR_CLSRSLT_WRK_GROUPBOX3$1'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  width='719'>
+<tr><td width='717'>
+<table role='presentation'  border='0' id='ACE_SSR_CLSRSLT_WRK_GROUPBOX3$1' cellpadding='0' cellspacing='0' cols='4' width='717' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='11' height='0'></td>
+<td width='32'></td>
+<td width='668'></td>
+<td width='6'></td>
+</tr>
+<tr>
+<td height='3' colspan='2'></td>
+<td rowspan='2'  valign='top' align='left'>
+<DIV    id='win0divSSR_CLSRCH_MTG1$1'>
+<table cellspacing='0' class='PSLEVEL1GRIDNBONBO'  id='SSR_CLSRCH_MTG1$scroll$1' dir='ltr' cols='7' width='668' cellpadding='2'>
+<tr>
+<th scope='col' abbr='Clase' width='30' align='left' class='PSLEVEL1GRIDCOLUMNHDR PSGRIDFIRSTCOLUMN' ><a name='SSR_CLSRCH_MTG1$srt5$1' id='SSR_CLSRCH_MTG1$srt5$1' tabindex='651' class='PSLEVEL1GRIDCOLUMNHDR' href="javascript:submitAction_win0(document.win0,'SSR_CLSRCH_MTG1$srt5$1');" title="Pulse para orden ascendente.">Clase</a></th>
+<th scope='col' abbr='Sección' width='80' align='left' class='PSLEVEL1GRIDCOLUMNHDR' ><a name='SSR_CLSRCH_MTG1$srt6$1' id='SSR_CLSRCH_MTG1$srt6$1' tabindex='652' class='PSLEVEL1GRIDCOLUMNHDR' href="javascript:submitAction_win0(document.win0,'SSR_CLSRCH_MTG1$srt6$1');" title="Pulse para orden ascendente.">Sección</a></th>
+<th scope='col' abbr='Días y Horas' width='98' align='left' class='PSLEVEL1GRIDCOLUMNHDR' ><a name='SSR_CLSRCH_MTG1$srt7$1' id='SSR_CLSRCH_MTG1$srt7$1' tabindex='653' class='PSLEVEL1GRIDCOLUMNHDR' href="javascript:submitAction_win0(document.win0,'SSR_CLSRCH_MTG1$srt7$1');" title="Pulse para orden ascendente.">Días y Horas</a></th>
+<th scope='col' abbr='Aula' width='91' align='left' class='PSLEVEL1GRIDCOLUMNHDR' ><a name='SSR_CLSRCH_MTG1$srt8$1' id='SSR_CLSRCH_MTG1$srt8$1' tabindex='654' class='PSLEVEL1GRIDCOLUMNHDR' href="javascript:submitAction_win0(document.win0,'SSR_CLSRCH_MTG1$srt8$1');" title="Pulse para orden ascendente.">Aula</a></th>
+<th scope='col' abbr='Instructor' width='98' align='left' class='PSLEVEL1GRIDCOLUMNHDR' ><a name='SSR_CLSRCH_MTG1$srt9$1' id='SSR_CLSRCH_MTG1$srt9$1' tabindex='655' class='PSLEVEL1GRIDCOLUMNHDR' href="javascript:submitAction_win0(document.win0,'SSR_CLSRCH_MTG1$srt9$1');" title="Pulse para orden ascendente.">Instructor</a></th>
+<th scope='col' abbr='Fechas Clase' width='94' align='left' class='PSLEVEL1GRIDCOLUMNHDR' ><a name='SSR_CLSRCH_MTG1$srt10$1' id='SSR_CLSRCH_MTG1$srt10$1' tabindex='656' class='PSLEVEL1GRIDCOLUMNHDR' href="javascript:submitAction_win0(document.win0,'SSR_CLSRCH_MTG1$srt10$1');" title="Pulse para orden ascendente.">Fechas Clase</a></th>
+<th scope='col' abbr='Estado' width='45' align='left' class='PSLEVEL1GRIDCOLUMNHDR' ><a name='SSR_CLSRCH_MTG1$srt11$1' id='SSR_CLSRCH_MTG1$srt11$1' tabindex='657' class='PSLEVEL1GRIDCOLUMNHDR' href="javascript:submitAction_win0(document.win0,'SSR_CLSRCH_MTG1$srt11$1');" title="Pulse para orden ascendente.">Estado</a></th>
+</tr>
+<tr id='trSSR_CLSRCH_MTG1$1_row1' valign='center' onClick="HighLightTR('rgb(238,238,238)','','trSSR_CLSRCH_MTG1$1_row1');" onMouseOver="hoverLightTR('rgb(253,255,200)','',0,'trSSR_CLSRCH_MTG1$1_row1');" onmouseout="hoverLightTR('rgb(253,255,200)','',1,'trSSR_CLSRCH_MTG1$1_row1');">
+<td align='left'  height='22' class='PSLEVEL3GRIDODDROW PSGRIDFIRSTCOLUMN' >
+<DIV    id='win0divMTG_CLASS_NBR$1'><span id='MTG_CLASS_NBR$span$1'  class='PSHYPERLINK'  title='Nº Clase' ><a name='MTG_CLASS_NBR$1' id='MTG_CLASS_NBR$1'  ptlinktgt='pt_peoplecode' tabindex='659' onclick='javascript:cancelBubble(event);' href="javascript:submitAction_win0(document.win0,'MTG_CLASS_NBR$1');"  class='PSHYPERLINK' >1127</a></span></DIV></td>
+<td class='PSLEVEL3GRIDODDROW'  align='left'  class='PSLEVEL3GRIDODDROW' >
+<DIV    id='win0divMTG_CLASSNAME$1'><span id='MTG_CLASSNAME$span$1'  class='PSHYPERLINK'  title='Ver Detalles' ><a name='MTG_CLASSNAME$1' id='MTG_CLASSNAME$1'  ptlinktgt='pt_peoplecode' tabindex='660' onclick='javascript:cancelBubble(event);' href="javascript:submitAction_win0(document.win0,'MTG_CLASSNAME$1');"  class='PSHYPERLINK' >1-TEO<br />
+Ordinaria</a></span></DIV></td>
+<td class='PSLEVEL3GRIDODDROW'  align='left'  class='PSLEVEL3GRIDODDROW' >
+<DIV    id='win0divMTG_DAYTIME$1'><span    class='PSLONGEDITBOX' id='MTG_DAYTIME$1' >Sáb 1:00PM - 5:00PM</span>
+</DIV></td>
+<td class='PSLEVEL3GRIDODDROW'  align='left'  class='PSLEVEL3GRIDODDROW' >
+<DIV    id='win0divMTG_ROOM$1'><span    class='PSLONGEDITBOX' id='MTG_ROOM$1' >SC067-P107</span>
+</DIV></td>
+<td class='PSLEVEL3GRIDODDROW'  align='left'  class='PSLEVEL3GRIDODDROW' >
+<DIV    id='win0divMTG_INSTR$1'><span    class='PSLONGEDITBOX' id='MTG_INSTR$1' >A Anunciar</span>
+</DIV></td>
+<td class='PSLEVEL3GRIDODDROW'  align='left'  class='PSLEVEL3GRIDODDROW' >
+<DIV    id='win0divMTG_TOPIC$1'><span    class='PSLONGEDITBOX' id='MTG_TOPIC$1' >18/07/2022 - 26/11/2022</span>
+</DIV></td>
+<td class='PSLEVEL3GRIDODDROW'  align='left'  class='PSLEVEL3GRIDODDROW' >
+<DIV    id='win0divDERIVED_CLSRCH_SSR_STATUS_LONG$1'><div style="min-width:45px; " >
+<!-- Begin HTML Area Name Undisclosed -->
+<img src="/cs/CS92GST/cache/PS_CS_STATUS_OPEN_ICN_ESP_1.gif" width="16" height="16" alt="Abierta" STYLE="vertical-align:middle;text-align:center;margin-left:12px">
+<!-- End HTML Area -->
+</div>
+</DIV></td>
+</tr>
+</table>
+</DIV>
+</td>
+</tr>
+<tr>
+<td height='39'></td>
+<td rowspan='2' nowrap='nowrap'  valign='top' align='left'>
+<DIV    id='win0divUJ_CLSRCH_WRK_CLASS_DATA_DTL_PB$1'><a name='UJ_CLSRCH_WRK_CLASS_DATA_DTL_PB$1' id='UJ_CLSRCH_WRK_CLASS_DATA_DTL_PB$1'   role='button' tabindex='631' onclick='javascript:cancelBubble(event);' href="javascript:submitAction_win0(document.win0,'UJ_CLSRCH_WRK_CLASS_DATA_DTL_PB$1');"><img src='/cs/CS92GST/cache/AMM_CAMA_ESP_1.gif' id='UJ_CLSRCH_WRK_CLASS_DATA_DTL_PB$IMG$1'  alt='Componentes Adicionales' title='Componentes Adicionales' border='0' /></a></DIV></td>
+</tr>
+<tr>
+<td height='3'></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+<tr>
+<td height='3' colspan='3'></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+<tr>
+<td height='71'></td>
+<td  valign='top' align='left'>
+<DIV    id='win0divSSR_CLSRSLT_WRK_GROUPBOX2$2'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  width='731'>
+<tr><td class='PAGROUPBOXLABELLEVEL1'  align='left'><DIV    id='win0divSSR_CLSRSLT_WRK_GROUPBOX2GP$2'><a class='PSHYPERLINK PTCOLLAPSE_ARROW' title='Contraer Sección MATEMÁT 1700 - Álgebra Lineal II - Álgebra Lineal II' name='SSR_CLSRSLT_WRK_GROUPBOX2$2' id='SSR_CLSRSLT_WRK_GROUPBOX2$2' tabindex='826' href="javascript:submitAction_win0(document.win0,'SSR_CLSRSLT_WRK_GROUPBOX2$2');" aria-expanded='true' role='button'><img src='/cs/CS92GST/cache/PT_TRANS_PIX_ESP_1.png' alt='Contraer Sección MATEMÁT 1700 - Álgebra Lineal II - Álgebra Lineal II' class='PTCOLLAPSE' title='Contraer Sección' border='0' /></a>&nbsp;MATEMÁT 1700 - Álgebra Lineal II - Álgebra Lineal II&nbsp;</DIV></td></tr>
+<tr><td width='729'>
+<table role='presentation'  border='0' id='ACE_SSR_CLSRSLT_WRK_GROUPBOX2$2' cellpadding='0' cellspacing='0' cols='3' width='729' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='0' height='0'></td>
+<td width='728'></td>
+<td width='2'></td>
+</tr>
+<tr>
+<td height='55'></td>
+<td  valign='top' align='left'>
+<DIV    id='win0div$ICField48$2'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  id='$ICField48$scroll$2' onclick="getScrollTableId('$ICField48$scroll$2')" width='727'>
+<tr><td width='725'>
+<table role='presentation'  border='0' id='ACE_$ICField48$2' cellpadding='0' cellspacing='0' cols='3' width='725' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='0' height='3'></td>
+<td width='720'></td>
+<td width='6'></td>
+</tr>
+<tr>
+<td height='50'></td>
+<td  valign='top' align='left'>
+<DIV    id='win0divSSR_CLSRSLT_WRK_GROUPBOX3$2'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  width='719'>
+<tr><td width='717'>
+<table role='presentation'  border='0' id='ACE_SSR_CLSRSLT_WRK_GROUPBOX3$2' cellpadding='0' cellspacing='0' cols='4' width='717' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='11' height='0'></td>
+<td width='32'></td>
+<td width='668'></td>
+<td width='6'></td>
+</tr>
+<tr>
+<td height='3' colspan='2'></td>
+<td rowspan='2'  valign='top' align='left'>
+<DIV    id='win0divSSR_CLSRCH_MTG1$2'>
+<table cellspacing='0' class='PSLEVEL1GRIDNBONBO'  id='SSR_CLSRCH_MTG1$scroll$2' dir='ltr' cols='7' width='668' cellpadding='2'>
+<tr>
+<th scope='col' abbr='Clase' width='30' align='left' class='PSLEVEL1GRIDCOLUMNHDR PSGRIDFIRSTCOLUMN' ><a name='SSR_CLSRCH_MTG1$srt5$2' id='SSR_CLSRCH_MTG1$srt5$2' tabindex='861' class='PSLEVEL1GRIDCOLUMNHDR' href="javascript:submitAction_win0(document.win0,'SSR_CLSRCH_MTG1$srt5$2');" title="Pulse para orden ascendente.">Clase</a></th>
+<th scope='col' abbr='Sección' width='80' align='left' class='PSLEVEL1GRIDCOLUMNHDR' ><a name='SSR_CLSRCH_MTG1$srt6$2' id='SSR_CLSRCH_MTG1$srt6$2' tabindex='862' class='PSLEVEL1GRIDCOLUMNHDR' href="javascript:submitAction_win0(document.win0,'SSR_CLSRCH_MTG1$srt6$2');" title="Pulse para orden ascendente.">Sección</a></th>
+<th scope='col' abbr='Días y Horas' width='98' align='left' class='PSLEVEL1GRIDCOLUMNHDR' ><a name='SSR_CLSRCH_MTG1$srt7$2' id='SSR_CLSRCH_MTG1$srt7$2' tabindex='863' class='PSLEVEL1GRIDCOLUMNHDR' href="javascript:submitAction_win0(document.win0,'SSR_CLSRCH_MTG1$srt7$2');" title="Pulse para orden ascendente.">Días y Horas</a></th>
+<th scope='col' abbr='Aula' width='91' align='left' class='PSLEVEL1GRIDCOLUMNHDR' ><a name='SSR_CLSRCH_MTG1$srt8$2' id='SSR_CLSRCH_MTG1$srt8$2' tabindex='864' class='PSLEVEL1GRIDCOLUMNHDR' href="javascript:submitAction_win0(document.win0,'SSR_CLSRCH_MTG1$srt8$2');" title="Pulse para orden ascendente.">Aula</a></th>
+<th scope='col' abbr='Instructor' width='98' align='left' class='PSLEVEL1GRIDCOLUMNHDR' ><a name='SSR_CLSRCH_MTG1$srt9$2' id='SSR_CLSRCH_MTG1$srt9$2' tabindex='865' class='PSLEVEL1GRIDCOLUMNHDR' href="javascript:submitAction_win0(document.win0,'SSR_CLSRCH_MTG1$srt9$2');" title="Pulse para orden ascendente.">Instructor</a></th>
+<th scope='col' abbr='Fechas Clase' width='94' align='left' class='PSLEVEL1GRIDCOLUMNHDR' ><a name='SSR_CLSRCH_MTG1$srt10$2' id='SSR_CLSRCH_MTG1$srt10$2' tabindex='866' class='PSLEVEL1GRIDCOLUMNHDR' href="javascript:submitAction_win0(document.win0,'SSR_CLSRCH_MTG1$srt10$2');" title="Pulse para orden ascendente.">Fechas Clase</a></th>
+<th scope='col' abbr='Estado' width='45' align='left' class='PSLEVEL1GRIDCOLUMNHDR' ><a name='SSR_CLSRCH_MTG1$srt11$2' id='SSR_CLSRCH_MTG1$srt11$2' tabindex='867' class='PSLEVEL1GRIDCOLUMNHDR' href="javascript:submitAction_win0(document.win0,'SSR_CLSRCH_MTG1$srt11$2');" title="Pulse para orden ascendente.">Estado</a></th>
+</tr>
+<tr id='trSSR_CLSRCH_MTG1$2_row1' valign='center' onClick="HighLightTR('rgb(238,238,238)','','trSSR_CLSRCH_MTG1$2_row1');" onMouseOver="hoverLightTR('rgb(253,255,200)','',0,'trSSR_CLSRCH_MTG1$2_row1');" onmouseout="hoverLightTR('rgb(253,255,200)','',1,'trSSR_CLSRCH_MTG1$2_row1');">
+<td align='left'  height='22' class='PSLEVEL3GRIDODDROW PSGRIDFIRSTCOLUMN' >
+<DIV    id='win0divMTG_CLASS_NBR$2'><span id='MTG_CLASS_NBR$span$2'  class='PSHYPERLINK'  title='Nº Clase' ><a name='MTG_CLASS_NBR$2' id='MTG_CLASS_NBR$2'  ptlinktgt='pt_peoplecode' tabindex='869' onclick='javascript:cancelBubble(event);' href="javascript:submitAction_win0(document.win0,'MTG_CLASS_NBR$2');"  class='PSHYPERLINK' >1049</a></span></DIV></td>
+<td class='PSLEVEL3GRIDODDROW'  align='left'  class='PSLEVEL3GRIDODDROW' >
+<DIV    id='win0divMTG_CLASSNAME$2'><span id='MTG_CLASSNAME$span$2'  class='PSHYPERLINK'  title='Ver Detalles' ><a name='MTG_CLASSNAME$2' id='MTG_CLASSNAME$2'  ptlinktgt='pt_peoplecode' tabindex='870' onclick='javascript:cancelBubble(event);' href="javascript:submitAction_win0(document.win0,'MTG_CLASSNAME$2');"  class='PSHYPERLINK' >1-TEO<br />
+Ordinaria</a></span></DIV></td>
+<td class='PSLEVEL3GRIDODDROW'  align='left'  class='PSLEVEL3GRIDODDROW' >
+<DIV    id='win0divMTG_DAYTIME$2'><span    class='PSLONGEDITBOX' id='MTG_DAYTIME$2' >Miérc 9:00AM - 11:00AM<br />
+V 9:00AM - 11:00AM</span>
+</DIV></td>
+<td class='PSLEVEL3GRIDODDROW'  align='left'  class='PSLEVEL3GRIDODDROW' >
+<DIV    id='win0divMTG_ROOM$2'><span    class='PSLONGEDITBOX' id='MTG_ROOM$2' >SC054-P003<br />
+SC051-P604</span>
+</DIV></td>
+<td class='PSLEVEL3GRIDODDROW'  align='left'  class='PSLEVEL3GRIDODDROW' >
+<DIV    id='win0divMTG_INSTR$2'><span    class='PSLONGEDITBOX' id='MTG_INSTR$2' >Pablo Asdrúbal Díaz Sepúlveda<br />
+Pablo Asdrúbal Díaz Sepúlveda</span>
+</DIV></td>
+<td class='PSLEVEL3GRIDODDROW'  align='left'  class='PSLEVEL3GRIDODDROW' >
+<DIV    id='win0divMTG_TOPIC$2'><span    class='PSLONGEDITBOX' id='MTG_TOPIC$2' >18/07/2022 - 26/11/2022<br />
+18/07/2022 - 26/11/2022</span>
+</DIV></td>
+<td class='PSLEVEL3GRIDODDROW'  align='left'  class='PSLEVEL3GRIDODDROW' >
+<DIV    id='win0divDERIVED_CLSRCH_SSR_STATUS_LONG$2'><div style="min-width:45px; " >
+<!-- Begin HTML Area Name Undisclosed -->
+<img src="/cs/CS92GST/cache/PS_CS_STATUS_OPEN_ICN_ESP_1.gif" width="16" height="16" alt="Abierta" STYLE="vertical-align:middle;text-align:center;margin-left:12px">
+<!-- End HTML Area -->
+</div>
+</DIV></td>
+</tr>
+</table>
+</DIV>
+</td>
+</tr>
+<tr>
+<td height='39'></td>
+<td rowspan='2' nowrap='nowrap'  valign='top' align='left'>
+<DIV    id='win0divUJ_CLSRCH_WRK_CLASS_DATA_DTL_PB$2'><a name='UJ_CLSRCH_WRK_CLASS_DATA_DTL_PB$2' id='UJ_CLSRCH_WRK_CLASS_DATA_DTL_PB$2'   role='button' tabindex='841' onclick='javascript:cancelBubble(event);' href="javascript:submitAction_win0(document.win0,'UJ_CLSRCH_WRK_CLASS_DATA_DTL_PB$2');"><img src='/cs/CS92GST/cache/AMM_CAMA_ESP_1.gif' id='UJ_CLSRCH_WRK_CLASS_DATA_DTL_PB$IMG$2'  alt='Componentes Adicionales' title='Componentes Adicionales' border='0' /></a></DIV></td>
+</tr>
+<tr>
+<td height='3'></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+<tr>
+<td height='3' colspan='3'></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+<tr>
+<td height='70'></td>
+<td  valign='top' align='left'>
+<DIV    id='win0divSSR_CLSRSLT_WRK_GROUPBOX2$3'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  width='731'>
+<tr><td class='PAGROUPBOXLABELLEVEL1'  align='left'><DIV    id='win0divSSR_CLSRSLT_WRK_GROUPBOX2GP$3'><a class='PSHYPERLINK PTCOLLAPSE_ARROW' title='Contraer Sección MATEMÁT 1700 - Fundamentos de Geometría - Fundamentos de Geometría' name='SSR_CLSRSLT_WRK_GROUPBOX2$3' id='SSR_CLSRSLT_WRK_GROUPBOX2$3' tabindex='1036' href="javascript:submitAction_win0(document.win0,'SSR_CLSRSLT_WRK_GROUPBOX2$3');" aria-expanded='true' role='button'><img src='/cs/CS92GST/cache/PT_TRANS_PIX_ESP_1.png' alt='Contraer Sección MATEMÁT 1700 - Fundamentos de Geometría - Fundamentos de Geometría' class='PTCOLLAPSE' title='Contraer Sección' border='0' /></a>&nbsp;MATEMÁT 1700 - Fundamentos de Geometría - Fundamentos de Geometría&nbsp;</DIV></td></tr>
+<tr><td width='729'>
+<table role='presentation'  border='0' id='ACE_SSR_CLSRSLT_WRK_GROUPBOX2$3' cellpadding='0' cellspacing='0' cols='3' width='729' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='0' height='0'></td>
+<td width='728'></td>
+<td width='2'></td>
+</tr>
+<tr>
+<td height='55'></td>
+<td  valign='top' align='left'>
+<DIV    id='win0div$ICField48$3'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  id='$ICField48$scroll$3' onclick="getScrollTableId('$ICField48$scroll$3')" width='727'>
+<tr><td width='725'>
+<table role='presentation'  border='0' id='ACE_$ICField48$3' cellpadding='0' cellspacing='0' cols='3' width='725' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='0' height='3'></td>
+<td width='720'></td>
+<td width='6'></td>
+</tr>
+<tr>
+<td height='50'></td>
+<td  valign='top' align='left'>
+<DIV    id='win0divSSR_CLSRSLT_WRK_GROUPBOX3$3'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  width='719'>
+<tr><td width='717'>
+<table role='presentation'  border='0' id='ACE_SSR_CLSRSLT_WRK_GROUPBOX3$3' cellpadding='0' cellspacing='0' cols='4' width='717' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='11' height='0'></td>
+<td width='32'></td>
+<td width='668'></td>
+<td width='6'></td>
+</tr>
+<tr>
+<td height='3' colspan='2'></td>
+<td rowspan='2'  valign='top' align='left'>
+<DIV    id='win0divSSR_CLSRCH_MTG1$3'>
+<table cellspacing='0' class='PSLEVEL1GRIDNBONBO'  id='SSR_CLSRCH_MTG1$scroll$3' dir='ltr' cols='7' width='668' cellpadding='2'>
+<tr>
+<th scope='col' abbr='Clase' width='30' align='left' class='PSLEVEL1GRIDCOLUMNHDR PSGRIDFIRSTCOLUMN' ><a name='SSR_CLSRCH_MTG1$srt5$3' id='SSR_CLSRCH_MTG1$srt5$3' tabindex='1071' class='PSLEVEL1GRIDCOLUMNHDR' href="javascript:submitAction_win0(document.win0,'SSR_CLSRCH_MTG1$srt5$3');" title="Pulse para orden ascendente.">Clase</a></th>
+<th scope='col' abbr='Sección' width='80' align='left' class='PSLEVEL1GRIDCOLUMNHDR' ><a name='SSR_CLSRCH_MTG1$srt6$3' id='SSR_CLSRCH_MTG1$srt6$3' tabindex='1072' class='PSLEVEL1GRIDCOLUMNHDR' href="javascript:submitAction_win0(document.win0,'SSR_CLSRCH_MTG1$srt6$3');" title="Pulse para orden ascendente.">Sección</a></th>
+<th scope='col' abbr='Días y Horas' width='98' align='left' class='PSLEVEL1GRIDCOLUMNHDR' ><a name='SSR_CLSRCH_MTG1$srt7$3' id='SSR_CLSRCH_MTG1$srt7$3' tabindex='1073' class='PSLEVEL1GRIDCOLUMNHDR' href="javascript:submitAction_win0(document.win0,'SSR_CLSRCH_MTG1$srt7$3');" title="Pulse para orden ascendente.">Días y Horas</a></th>
+<th scope='col' abbr='Aula' width='91' align='left' class='PSLEVEL1GRIDCOLUMNHDR' ><a name='SSR_CLSRCH_MTG1$srt8$3' id='SSR_CLSRCH_MTG1$srt8$3' tabindex='1074' class='PSLEVEL1GRIDCOLUMNHDR' href="javascript:submitAction_win0(document.win0,'SSR_CLSRCH_MTG1$srt8$3');" title="Pulse para orden ascendente.">Aula</a></th>
+<th scope='col' abbr='Instructor' width='98' align='left' class='PSLEVEL1GRIDCOLUMNHDR' ><a name='SSR_CLSRCH_MTG1$srt9$3' id='SSR_CLSRCH_MTG1$srt9$3' tabindex='1075' class='PSLEVEL1GRIDCOLUMNHDR' href="javascript:submitAction_win0(document.win0,'SSR_CLSRCH_MTG1$srt9$3');" title="Pulse para orden ascendente.">Instructor</a></th>
+<th scope='col' abbr='Fechas Clase' width='94' align='left' class='PSLEVEL1GRIDCOLUMNHDR' ><a name='SSR_CLSRCH_MTG1$srt10$3' id='SSR_CLSRCH_MTG1$srt10$3' tabindex='1076' class='PSLEVEL1GRIDCOLUMNHDR' href="javascript:submitAction_win0(document.win0,'SSR_CLSRCH_MTG1$srt10$3');" title="Pulse para orden ascendente.">Fechas Clase</a></th>
+<th scope='col' abbr='Estado' width='45' align='left' class='PSLEVEL1GRIDCOLUMNHDR' ><a name='SSR_CLSRCH_MTG1$srt11$3' id='SSR_CLSRCH_MTG1$srt11$3' tabindex='1077' class='PSLEVEL1GRIDCOLUMNHDR' href="javascript:submitAction_win0(document.win0,'SSR_CLSRCH_MTG1$srt11$3');" title="Pulse para orden ascendente.">Estado</a></th>
+</tr>
+<tr id='trSSR_CLSRCH_MTG1$3_row1' valign='center' onClick="HighLightTR('rgb(238,238,238)','','trSSR_CLSRCH_MTG1$3_row1');" onMouseOver="hoverLightTR('rgb(253,255,200)','',0,'trSSR_CLSRCH_MTG1$3_row1');" onmouseout="hoverLightTR('rgb(253,255,200)','',1,'trSSR_CLSRCH_MTG1$3_row1');">
+<td align='left'  height='22' class='PSLEVEL3GRIDODDROW PSGRIDFIRSTCOLUMN' >
+<DIV    id='win0divMTG_CLASS_NBR$3'><span id='MTG_CLASS_NBR$span$3'  class='PSHYPERLINK'  title='Nº Clase' ><a name='MTG_CLASS_NBR$3' id='MTG_CLASS_NBR$3'  ptlinktgt='pt_peoplecode' tabindex='1079' onclick='javascript:cancelBubble(event);' href="javascript:submitAction_win0(document.win0,'MTG_CLASS_NBR$3');"  class='PSHYPERLINK' >1042</a></span></DIV></td>
+<td class='PSLEVEL3GRIDODDROW'  align='left'  class='PSLEVEL3GRIDODDROW' >
+<DIV    id='win0divMTG_CLASSNAME$3'><span id='MTG_CLASSNAME$span$3'  class='PSHYPERLINK'  title='Ver Detalles' ><a name='MTG_CLASSNAME$3' id='MTG_CLASSNAME$3'  ptlinktgt='pt_peoplecode' tabindex='1080' onclick='javascript:cancelBubble(event);' href="javascript:submitAction_win0(document.win0,'MTG_CLASSNAME$3');"  class='PSHYPERLINK' >1-TEO<br />
+Ordinaria</a></span></DIV></td>
+<td class='PSLEVEL3GRIDODDROW'  align='left'  class='PSLEVEL3GRIDODDROW' >
+<DIV    id='win0divMTG_DAYTIME$3'><span    class='PSLONGEDITBOX' id='MTG_DAYTIME$3' >Mart 9:00AM - 11:00AM<br />
+Jue 9:00AM - 11:00AM</span>
+</DIV></td>
+<td class='PSLEVEL3GRIDODDROW'  align='left'  class='PSLEVEL3GRIDODDROW' >
+<DIV    id='win0divMTG_ROOM$3'><span    class='PSLONGEDITBOX' id='MTG_ROOM$3' >SC054-P003<br />
+SC054-P003</span>
+</DIV></td>
+<td class='PSLEVEL3GRIDODDROW'  align='left'  class='PSLEVEL3GRIDODDROW' >
+<DIV    id='win0divMTG_INSTR$3'><span    class='PSLONGEDITBOX' id='MTG_INSTR$3' >Haimer Alexander Trejos Serna<br />
+Haimer Alexander Trejos Serna</span>
+</DIV></td>
+<td class='PSLEVEL3GRIDODDROW'  align='left'  class='PSLEVEL3GRIDODDROW' >
+<DIV    id='win0divMTG_TOPIC$3'><span    class='PSLONGEDITBOX' id='MTG_TOPIC$3' >18/07/2022 - 26/11/2022<br />
+18/07/2022 - 26/11/2022</span>
+</DIV></td>
+<td class='PSLEVEL3GRIDODDROW'  align='left'  class='PSLEVEL3GRIDODDROW' >
+<DIV    id='win0divDERIVED_CLSRCH_SSR_STATUS_LONG$3'><div style="min-width:45px; " >
+<!-- Begin HTML Area Name Undisclosed -->
+<img src="/cs/CS92GST/cache/PS_CS_STATUS_OPEN_ICN_ESP_1.gif" width="16" height="16" alt="Abierta" STYLE="vertical-align:middle;text-align:center;margin-left:12px">
+<!-- End HTML Area -->
+</div>
+</DIV></td>
+</tr>
+</table>
+</DIV>
+</td>
+</tr>
+<tr>
+<td height='39'></td>
+<td rowspan='2' nowrap='nowrap'  valign='top' align='left'>
+<DIV    id='win0divUJ_CLSRCH_WRK_CLASS_DATA_DTL_PB$3'><a name='UJ_CLSRCH_WRK_CLASS_DATA_DTL_PB$3' id='UJ_CLSRCH_WRK_CLASS_DATA_DTL_PB$3'   role='button' tabindex='1051' onclick='javascript:cancelBubble(event);' href="javascript:submitAction_win0(document.win0,'UJ_CLSRCH_WRK_CLASS_DATA_DTL_PB$3');"><img src='/cs/CS92GST/cache/AMM_CAMA_ESP_1.gif' id='UJ_CLSRCH_WRK_CLASS_DATA_DTL_PB$IMG$3'  alt='Componentes Adicionales' title='Componentes Adicionales' border='0' /></a></DIV></td>
+</tr>
+<tr>
+<td height='3'></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+<tr>
+<td height='3' colspan='3'></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+<tr>
+<td height='2' colspan='3'></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+<tr>
+<td height='7' colspan='2'></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+<tr>
+<td height='8' colspan='13'></td>
+</tr>
+<tr>
+<td height='28' colspan='5'></td>
+<td  valign='top' align='left'>
+<DIV    id='win0div$ICField$6$'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  width='167'>
+<tr><td width='165'>
+<table role='presentation'  border='0' id='ACE_$ICField$6$' cellpadding='0' cellspacing='0' cols='2' width='165' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='3' height='0'></td>
+<td width='162'></td>
+</tr>
+<tr>
+<td height='23'></td>
+<td nowrap='nowrap'  valign='top' align='left'>
+<DIV    id='win0divCLASS_SRCH_WRK2_SSR_PB_NEW_SEARCH$3$'><a role='presentation' class='PSPUSHBUTTON Left' ><span style='background-Color: transparent;'><input type='button' name='CLASS_SRCH_WRK2_SSR_PB_NEW_SEARCH$3$' id='CLASS_SRCH_WRK2_SSR_PB_NEW_SEARCH$3$' tabindex='1261' value='Nva Búsqueda'  class='PSPUSHBUTTON' style='width:152px; ' onclick="submitAction_win0(document.win0,this.id,event);" title='Nueva Búsqueda'  /></span></a></DIV></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+<td colspan='2'  valign='top' align='left'>
+<DIV    id='win0div$ICField$7$'><table cellpadding='2' cellspacing='0' cols='1'  class='PABACKGROUNDINVISIBLEWBO'  width='167'>
+<tr><td width='165'>
+<table role='presentation'  border='0' id='ACE_$ICField$7$' cellpadding='0' cellspacing='0' cols='2' width='165' class='PABACKGROUNDINVISIBLE' style='border-style:none' >
+<tr>
+<td width='7' height='0'></td>
+<td width='158'></td>
+</tr>
+<tr>
+<td height='23'></td>
+<td nowrap='nowrap'  valign='top' align='left'>
+<DIV    id='win0divCLASS_SRCH_WRK2_SSR_PB_MODIFY$5$'><a role='presentation' class='PSPUSHBUTTON Left' ><span style='background-Color: transparent;'><input type='button' name='CLASS_SRCH_WRK2_SSR_PB_MODIFY$5$' id='CLASS_SRCH_WRK2_SSR_PB_MODIFY$5$' tabindex='1262' value='Modificar Búsqueda'  class='PSPUSHBUTTON' style='width:152px; ' onclick="submitAction_win0(document.win0,this.id,event);" /></span></a></DIV></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</DIV></td>
+</tr>
+<tr>
+<td height='10' colspan='13'></td>
+</tr>
+</table>
+</DIV>
+</td></tr>
+</table>
+<DIV class='x'  id='pt_dragtxt' class='PSLEVEL1GRIDCOLUMNHDR'></div><div onmouseup='ptGridResizeObj_win0.TDselUp();' onmousemove='ptGridResizeObj_win0.TDselMove();' id='pt_dragResize' onmouseout='ptGridResizeObj_win0.dragTD=false;' onmbouseover='ptGridResizeObj_win0.dragTD=true;'></div>]]></FIELD>
+<FIELD id='win0divPSPANELTABLINKS'><![CDATA[]]></FIELD>
+<SYSVAR id='sysvar'><![CDATA[nMaxSavedStates=5;
+sHistURL="https://csg.javeriana.edu.co/psc/CS92GST/EMPLOYEE/SA/c/ESTABLISH_COURSES.CLASS_SEARCH.GBL?page=SSR_CLSRCH_RSLT&";
+bCloseModal = false;
+bICList = false;
+bHtml5Doc = true;
+bClearBackState=false;
+bPageTransfered=true;
+bTransferAnimate=false;
+UpdateHistory('', '', 'returntolastpage@0', 'SSR_CLSRCH_RSLT', 0, '', 1, 0);
+AddToHistory('Resultados de Búsqueda', '', 'returntolastpage@0', 'SSR_CLSRCH_RSLT', 5, 0, 1, 0,'', 1, '', 0);
+corsHistoryTansaction();
+bCleanHtml = false;
+bDefer = true;
+document.hiddenFldArr_win0 =new Array('ICType','ICElementNum','ICStateNum','ICAction','ICModelCancel','ICXPos','ICYPos','ResponsetoDiffFrame','TargetFrameName','FacetPath','ICFocus','ICSaveWarningFilter','ICChanged','ICSkipPending','ICAutoSave','ICResubmit','ICSID','ICActionPrompt','ICTypeAheadID','ICBcDomData','ICPanelName','ICFind','ICAddCount','ICAppClsData');
+document.chgFldArr_win0 = new Array();
+bCDATA = false;
+bAccessibleLayout = false;
+bGenDomInfo = false;
+]]></SYSVAR></PAGE>
